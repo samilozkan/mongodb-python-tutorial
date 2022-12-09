@@ -5,6 +5,9 @@ MongoDB is a tool to explore data structured as you see fit. As a NoSQL database
 ## Flexibly Structured Data
 We  will relate MongoDB documents, collections, and databases to JSON and Python types. We'll then use filters, operators, and dot notation to explore substructure.
 
+### JSON
+Javascript is the language of web browsers. JavaScript Object Notation, or JSON, is a common way that web services and client code pass data. JSON is also the basis of MongoDB's data format. So, what is JSON? JSON has two collection structures. Objects map string keys to values, and arrays order values. Values, in turn, are one of a few thing
+
 ## Working with Distinct Values and Sets
 This part is about dipping your toes into the pools of values for various fields. we'll collect distinct values, test for membership in sets, and match values to patterns.
 
